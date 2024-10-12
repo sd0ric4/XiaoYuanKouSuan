@@ -148,6 +148,7 @@ python main.py -H 0.0.0.0 -P 8080
 <a href="https://github.com/Fumeng24"><img src="https://avatars.githubusercontent.com/u/114860867?v=4&s=100" width="50" height="50" alt="Fumeng24" /></a>
 <a href="https://github.com/apps/github-actions"><img src="https://avatars.githubusercontent.com/in/15368?v=4&s=100" width="50" height="50" alt="github-actions[bot]" /></a>
 <a href="https://github.com/MultiWolf"><img src="https://avatars.githubusercontent.com/u/104704213?v=4&s=100" width="50" height="50" alt="MultiWolf" /></a>
+<a href="https://github.com/GSQZ"><img src="https://avatars.githubusercontent.com/u/83207347?v=4&s=100" width="50" height="50" alt="GSQZ" /></a>
 <!-- CONTRIBUTORS-END -->
 
 ## Star History :star:
